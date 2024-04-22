@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzalo
-- 🌱 🔭 I'm a Telco Engineer, currently studying a Master's degree in Telecommunications Engineering at Universidad Politécnica de Madrid.
-
+- 🌱 🔭 I'm a Computer Engineer, currently studying a dual Master's degree in Telecommunications Engineering at Universidad Politécnica de Madrid.
+- 🌱 🔭 Also studying a Master's degree in Information Technology specialized in Data Analytics at Illinois Institute of Technology.
 - 🌱 I'm currently learning and really interested in Data Analytics and Computer Networks.
 
 📫 How to reach me: Linkedin
